@@ -1,0 +1,21 @@
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\bin\Debug\UISupportSample CS.exe
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\bin\Debug\UISupportSample CS.pdb
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UISupportSample CS.csprojResolveAssemblyReference.cache
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.EnrollmentForm.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.MainForm.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.Properties.Resources.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.VerificationForm.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UISupportSample CS.csproj.GenerateResource.Cache
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UISupportSample CS.exe
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UISupportSample CS.pdb
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\bin\Debug\UISupportSample CS.exe.config
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\bin\Debug\MetroFramework.dll
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\bin\Debug\System.Data.SQLite.dll
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\bin\Debug\System.Data.SQLite.xml
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.AdminHome.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.Creat_Staff.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.Login.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.Show_Attendance.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.Start_Attendance.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.Show_Staff.resources
+C:\Program Files\DigitalPersona\One Touch SDK\.NET\Samples\Visual Studio 2005\CSharp\UI Support\obj\Debug\UI_Support.Stop_Attendance.resources
